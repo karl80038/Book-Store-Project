@@ -9,6 +9,8 @@
             <li><a href="?page=shop.php">Shop</a></li>
             <li><div class="vl"></div></li>
             <li><a href="?page=admin.php">Admin</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="?page=books.php">Books</a></li>
         <?php if($title == "Fashion Book") { ?>    
             <li></li>
         <?php } else { ?>
