@@ -80,6 +80,7 @@
                         <p>&#9733;&#9733;&#9733;&#9734;&#9734;</p>
                         <p>$$item[4]</p>
                     </div>
+                    <input class='btn' type='submit' name='addtoCart' value='Add to Cart' />
                 </div>";
 			
 			//Delete button
